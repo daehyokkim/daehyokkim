@@ -1,9 +1,9 @@
-### Hi there 👋 I'm daehyok 😄😄😄
-<h3>Tech Stack </h3>
+### :hammer:Tech Stack :electric_plug:
 
-(https://github-readme-stats.vercel.app/api ? username = daehyokkim )] (https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daehyokkim)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=SMySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;</a>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=SMySQL&logoColor=white"/></a>
+
 
 <!--
 **daehyokkim/daehyokkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
